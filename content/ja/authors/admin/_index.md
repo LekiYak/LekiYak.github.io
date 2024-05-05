@@ -107,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Bio here lol
+Japanese bio
 {style="text-align: justify;"}
