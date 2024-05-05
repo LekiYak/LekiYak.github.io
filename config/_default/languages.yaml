@@ -3,15 +3,24 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 ja:
  languageCode: ja
  contentDir: content/ja
+ disabled: false
+ languageDirection: ltr
+ languageName: 日本語
  title: Japanese website title...
  params:
    description: Japanese description...
@@ -19,4 +28,4 @@ ja:
    main:
      - name: 役田歴真
        url: '#about'
-       weight: 1
+       weight: 2
