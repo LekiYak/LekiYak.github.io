@@ -5,21 +5,22 @@
 # Default language
   en:
     contentDir: content/en
-    disabled: false
     languageCode: en-US
     languageDirection: ltr
     languageName: English
-    params:
-      subtitle: Reference, Tutorials, and Explanations
     title: Project Documentation
+    params:
+      descrption: English description
     weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
-ja:
- languageCode: ja
- contentDir: content/ja
- disabled: false
- languageDirection: ltr
- title: Japanese website title...
- params:
-   description: Japanese description...
+  ja:
+    languageCode: ja
+    contentDir: content/ja
+    disabled: false
+    languageDirection: ltr
+    languageName: 日本語
+    title: Japanese website title...
+    params:
+      description: Japanese description...
+    weight: 2

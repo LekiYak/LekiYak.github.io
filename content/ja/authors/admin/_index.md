@@ -22,9 +22,8 @@ bio: 摩擦実験、断層運動に興味があります。
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structural Geology
+  - Fault Mechanics
 
 # Education to show in About widget
 education:

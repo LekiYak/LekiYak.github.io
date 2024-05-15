@@ -22,9 +22,8 @@ bio: My research interests include experimental fault mechanics, friction, and a
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Structural Geology
+  - Fault Mechanics
 
 # Education to show in About widget
 education:
